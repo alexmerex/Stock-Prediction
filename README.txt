@@ -1,5 +1,3 @@
-Based on the provided code, here is the content for the `readme.txt` file that provides an overview of the notebook and instructions on how to use it:
-
 ---
 
 # Stock Prediction with Various Models
